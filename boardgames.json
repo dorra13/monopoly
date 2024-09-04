@@ -6,7 +6,8 @@
     "name": "Monopoly",
     "people": "2-6",
     "time": "30-180",
-    "intensity": "Easy"
+    "intensity": "Easy",
+    "description": "A property-trading game where players aim to bankrupt."
   },
   {
     "id": "123456",
@@ -15,7 +16,8 @@
     "theme": "Imagination",
     "people": "3-6",
     "time": "30-45",
-    "intensity": "Medium"
+    "intensity": "Medium",
+    "description": "Storytelling game using abstract, imaginative images."
   },
   {
     "id": "p12345678",
@@ -24,7 +26,8 @@
     "theme": "Fantasy",
     "people": "3-6",
     "time": "30-180",
-    "intensity": "Hard"
+    "intensity": "Hard",
+    "description": "A fantasy role-playing game with collaborative storytelling."
   },
   {
     "id": "123456789",
@@ -33,7 +36,8 @@
     "theme": "Exploration",
     "people": "3-4",
     "time": "60-90",
-    "intensity": "Medium"
+    "intensity": "Medium".
+    "description": "Trade and build to dominate an island."
   },
   {
     "id": "1234567890",
@@ -42,7 +46,8 @@
     "theme": "Art",
     "people": "2-4",
     "time": "30-45",
-    "intensity": "Easy"
+    "intensity": "Easy",
+    "description": "Draft tiles to create beautiful mosaics."
   },
   {
     "id": "23456789",
@@ -51,7 +56,8 @@
     "theme": "Travel",
     "people": "2-5",
     "time": "45-60",
-    "intensity": "Easy"
+    "intensity": "Easy",
+    "description": "Build train routes across a map."
   },
   {
     "id": "3456789",
@@ -60,7 +66,8 @@
     "theme": "Crisis",
     "people": "2-4",
     "time": "45-60",
-    "intensity": "Medium"
+    "intensity": "Medium",
+    "description": "Cooperate to stop global disease outbreaks."
   },
   {
     "id": "456789",
@@ -69,7 +76,8 @@
     "theme": "Teritory",
     "people": "2-5",
     "time": "30-45",
-    "intensity": "Easy"
+    "intensity": "Easy",
+    "description": "Build a medieval landscape with tiles."
   },
   {
     "id": "56789",
@@ -78,7 +86,8 @@
     "theme": "Sci-Fi",
     "people": "1-5",
     "time": "120-150",
-    "intensity": "Hard"
+    "intensity": "Hard",
+    "description": "Compete to develop and colonize Mars."
   },
   {
     "id": "6789",
@@ -87,6 +96,7 @@
     "theme": "Civilatization",
     "people": "2-7",
     "time": "30-45",
-    "intensity": "Medium"
+    "intensity": "Medium",
+    "description": "Build a civilization through drafting cards."
   }
 ]

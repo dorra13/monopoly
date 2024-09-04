@@ -1,0 +1,92 @@
+[
+  {
+    "id": "12345",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshop.hasbro.com%2Fen-us%2Fproduct%2Fmonopoly-classic-game%2F7EABAF97-5056-9047-F577-8F4663C79E75&psig=AOvVaw2KxTflhtwu336jY4LeRl00&ust=1725524419123000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICY58PtqIgDFQAAAAAdAAAAABAE",
+    "theme": "Money",
+    "name": "Monopoly",
+    "people": "2-6",
+    "time": "30-180",
+    "intensity": "Easy"
+  },
+  {
+    "id": "123456",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spelexperten.dk%2Fdk%2Fselskabsspil%2Fstrategispil%2Fdixit-eng.html&psig=AOvVaw3wIU8kPnv6YWHUuttkXIlk&ust=1725524475634000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICpvd3tqIgDFQAAAAAdAAAAABAE",
+    "name": "Dixit",
+    "theme": "Imagination",
+    "people": "3-6",
+    "time": "30-45",
+    "intensity": "Medium"
+  },
+  {
+    "id": "p12345678",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.target.com%2Fp%2Fdungeons-38-dragons-dragons-of-stormwreck-isle-starter-set-game%2F-%2FA-85017140&psig=AOvVaw0rtC5Wgpnl3_022RcxiHt3&ust=1725524536498000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjA4PvtqIgDFQAAAAAdAAAAABAE",
+    "name": "Dungeons&Dragons",
+    "theme": "Fantasy",
+    "people": "3-6",
+    "time": "30-180",
+    "intensity": "Hard"
+  },
+  {
+    "id": "123456789",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmeepleopolis.com%2Fproduct%2Fcatan-the-settlers%2F&psig=AOvVaw0fHztXDnA5_0S9zqfNcirO&ust=1725524619744000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjqgKbuqIgDFQAAAAAdAAAAABAE",
+    "name": "Catan",
+    "theme": "Exploration",
+    "people": "3-4",
+    "time": "60-90",
+    "intensity": "Medium"
+  },
+  {
+    "id": "1234567890",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.drustveneigre.rs%2FAzul&psig=AOvVaw2igQTmch8Lcn2sGUggY1RF&ust=1725524687686000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiXm8LuqIgDFQAAAAAdAAAAABAE",
+    "name": "Azul",
+    "theme": "Art",
+    "people": "2-4",
+    "time": "30-45",
+    "intensity": "Easy"
+  },
+  {
+    "id": "23456789",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FDays-Wonder-DO7201-Ticket-Ride%2Fdp%2F0975277324&psig=AOvVaw1hPHWWKHGOYxpCceL70M-7&ust=1725524796013000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjA5vbuqIgDFQAAAAAdAAAAABAE",
+    "name": "Ticket to Ride",
+    "theme": "Travel",
+    "people": "2-5",
+    "time": "45-60",
+    "intensity": "Easy"
+  },
+  {
+    "id": "3456789",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.argos.co.uk%2Fproduct%2F9513323&psig=AOvVaw0fbVprJyKNxpK_a47wRLeQ&ust=1725524854124000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiek5LvqIgDFQAAAAAdAAAAABAE",
+    "name": "Pandemic",
+    "theme": "Crisis",
+    "people": "2-4",
+    "time": "45-60",
+    "intensity": "Medium"
+  },
+  {
+    "id": "456789",
+    "image": "https://www.eaaa.dk/media/bdojel41/dan-okkels-brendstrup.jpg?anchor=center&mode=crop&width=800&height=450&rnd=132792921559630000&format=webp",
+    "name": "Carcassonne",
+    "theme": "Teritory",
+    "people": "2-5",
+    "time": "30-45",
+    "intensity": "Easy"
+  },
+  {
+    "id": "56789",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kelz0r.dk%2Fmagic%2Fterraforming-mars-dansk-board-game-p-190087.html%3Flanguage%3Den&psig=AOvVaw0W5uzzWFg0TIsJwgWcPDqK&ust=1725524907150000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiNq7nvqIgDFQAAAAAdAAAAABAE",
+    "name": "Terraforming Mars",
+    "theme": "Sci-Fi",
+    "people": "1-5",
+    "time": "120-150",
+    "intensity": "Hard"
+  },
+  {
+    "id": "6789",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gamesweb.dk%2Fproducts%2F7-wonders-second-edition&psig=AOvVaw17O0sMLke1Ya_SYJCGmcPz&ust=1725525019268000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDGx-DvqIgDFQAAAAAdAAAAABAE",
+    "name": "7 Wonders",
+    "theme": "Civilatization",
+    "people": "2-7",
+    "time": "30-45",
+    "intensity": "Medium"
+  }
+]

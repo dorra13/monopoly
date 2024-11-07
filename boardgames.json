@@ -1,58 +1,65 @@
-[
-  {
-    "profilePicture": "images/pp-christina.png",
-    "name": "User1",
-    "date": "2024-11-04 10:00 AM",
-    "caption": "Todays workout was great!",
-    "exercises": [
-      { "name": "Squats", "sets": 4, "reps": 10, "weight": 70 },
-      { "name": "RDL's", "sets": 3, "reps": 8, "weight": 60 },
-      { "name": "Leg Extentions", "sets": 3, "reps": 8, "weight": 60 },
-      { "name": "Kickbacks", "sets": 3, "reps": 8, "weight": 60 }
-    ],
-    "likes": 15,
-    "comments": 2
-  },
-  {
-    "profilePicture": "images/pp-luca.png",
-    "name": "User2",
-    "date": "2024-11-03 11:00 AM",
-    "caption": "One word- beast",
-    "exercises": [
-      { "name": "Deadlifts", "sets": 3, "reps": 6, "weight": 80 },
-      { "name": "Pull-ups", "sets": 3, "reps": 8, "weight": 10 },
-      { "name": "Barbell Row", "sets": 3, "reps": 8, "weight": 60 },
-      { "name": "Lat Pulldowns", "sets": 3, "reps": 8, "weight": 50 }
-    ],
-    "likes": 10,
-    "comments": 3
-  },
-  {
-    "profilePicture": "images/pp-john.png",
-    "name": "User3",
-    "date": "2024-11-02 11:00 PM",
-    "caption": "Winter Arc officially startef.",
-    "exercises": [
-      { "name": "Bench Press", "sets": 3, "reps": 6, "weight": 110 },
-      { "name": "Chest Dips", "sets": 3, "reps": 8, "weight": 70 },
-      { "name": "Dumbbell Press", "sets": 3, "reps": 8, "weight": 70 },
-      { "name": "Cable Flys", "sets": 3, "reps": 8, "weight": 50 }
-    ],
-    "likes": 13,
-    "comments": 2
-  },
-  {
-    "profilePicture": "images/pp-jana.png",
-    "name": "User4",
-    "date": "2024-11-01 11:00 AM",
-    "caption": "I will definetly be sore tommorow.",
-    "exercises": [
-      { "name": "Hip Thrusts", "sets": 3, "reps": 6, "weight": 100 },
-      { "name": "RDL's", "sets": 3, "reps": 8, "weight": 36 },
-      { "name": "Blugarian Split Squads", "sets": 3, "reps": 8, "weight": 40 },
-      { "name": "Kickbacks", "sets": 3, "reps": 8, "weight": 27 }
-    ],
-    "likes": 20,
-    "comments": 5
-  }
-]
+{
+  "posts": [
+    {
+      "profilePicture": "images/pp-christina.png",
+      "name": "User1",
+      "date": "2024-11-04 10:00 AM",
+      "caption": "Today's workout was great!",
+      "exercises": [
+        { "name": "Squats", "sets": 4, "reps": 10, "weight": 70 },
+        { "name": "RDL's", "sets": 3, "reps": 8, "weight": 60 },
+        { "name": "Leg Extensions", "sets": 3, "reps": 8, "weight": 60 },
+        { "name": "Kickbacks", "sets": 3, "reps": 8, "weight": 60 }
+      ],
+      "likes": 15,
+      "comments": 2
+    },
+    {
+      "profilePicture": "images/pp-luca.png",
+      "name": "User2",
+      "date": "2024-11-03 11:00 AM",
+      "caption": "One word- beast",
+      "exercises": [
+        { "name": "Deadlifts", "sets": 3, "reps": 6, "weight": 80 },
+        { "name": "Pull-ups", "sets": 3, "reps": 8, "weight": 10 },
+        { "name": "Barbell Row", "sets": 3, "reps": 8, "weight": 60 },
+        { "name": "Lat Pulldowns", "sets": 3, "reps": 8, "weight": 50 }
+      ],
+      "likes": 10,
+      "comments": 3
+    },
+    {
+      "profilePicture": "images/pp-john.png",
+      "name": "User3",
+      "date": "2024-11-02 11:00 PM",
+      "caption": "Winter Arc officially started.",
+      "exercises": [
+        { "name": "Bench Press", "sets": 3, "reps": 6, "weight": 110 },
+        { "name": "Chest Dips", "sets": 3, "reps": 8, "weight": 70 },
+        { "name": "Dumbbell Press", "sets": 3, "reps": 8, "weight": 70 },
+        { "name": "Cable Flys", "sets": 3, "reps": 8, "weight": 50 }
+      ],
+      "likes": 13,
+      "comments": 2
+    },
+    {
+      "profilePicture": "images/pp-jana.png",
+      "name": "User4",
+      "date": "2024-11-01 11:00 AM",
+      "caption": "I will definitely be sore tomorrow.",
+      "exercises": [
+        { "name": "Hip Thrusts", "sets": 3, "reps": 6, "weight": 100 },
+        { "name": "RDL's", "sets": 3, "reps": 8, "weight": 36 },
+        {
+          "name": "Bulgarian Split Squats",
+          "sets": 3,
+          "reps": 8,
+          "weight": 40
+        },
+        { "name": "Kickbacks", "sets": 3, "reps": 8, "weight": 27 }
+      ],
+      "likes": 20,
+      "comments": 5
+    }
+  ]
+}

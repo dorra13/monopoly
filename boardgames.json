@@ -1,102 +1,58 @@
 [
   {
-    "id": "12345",
-    "image": "https://www.merlin.dk/Images/915x900/3200863_3f5be288447c.jpg",
-    "theme": "Money",
-    "name": "Monopoly",
-    "people": "2-6",
-    "time": "30-180",
-    "intensity": "Easy",
-    "description": "A property-trading game where players aim to bankrupt."
+    "profilePicture": "images/pp-christina.png",
+    "name": "User1",
+    "date": "2024-11-04 10:00 AM",
+    "caption": "Todays workout was great!",
+    "exercises": [
+      { "name": "Squats", "sets": 4, "reps": 10, "weight": 70 },
+      { "name": "RDL's", "sets": 3, "reps": 8, "weight": 60 },
+      { "name": "Leg Extentions", "sets": 3, "reps": 8, "weight": 60 },
+      { "name": "Kickbacks", "sets": 3, "reps": 8, "weight": 60 }
+    ],
+    "likes": 15,
+    "comments": 2
   },
   {
-    "id": "123456",
-    "image": "https://www.spelexperten.dk/bilder/artiklar/zoom/ASMDIXIT_1.jpg?m=1637219326",
-    "name": "Dixit",
-    "theme": "Imagination",
-    "people": "3-6",
-    "time": "30-45",
-    "intensity": "Medium",
-    "description": "Storytelling game using abstract, imaginative images."
+    "profilePicture": "images/pp-luca.png",
+    "name": "User2",
+    "date": "2024-11-03 11:00 AM",
+    "caption": "One word- beast",
+    "exercises": [
+      { "name": "Deadlifts", "sets": 3, "reps": 6, "weight": 80 },
+      { "name": "Pull-ups", "sets": 3, "reps": 8, "weight": 10 },
+      { "name": "Barbell Row", "sets": 3, "reps": 8, "weight": 60 },
+      { "name": "Lat Pulldowns", "sets": 3, "reps": 8, "weight": 50 }
+    ],
+    "likes": 10,
+    "comments": 3
   },
   {
-    "id": "p12345678",
-    "image": "https://target.scene7.com/is/image/Target/GUEST_0b5f2541-6bc2-4b3f-8d5d-5203fe8bae52?wid=488&hei=488&fmt=pjpeg",
-    "name": "Dungeons&Dragons",
-    "theme": "Fantasy",
-    "people": "3-6",
-    "time": "30-180",
-    "intensity": "Hard",
-    "description": "A fantasy role-playing game with collaborative storytelling."
+    "profilePicture": "images/pp-john.png",
+    "name": "User3",
+    "date": "2024-11-02 11:00 PM",
+    "caption": "Winter Arc officially startef.",
+    "exercises": [
+      { "name": "Bench Press", "sets": 3, "reps": 6, "weight": 110 },
+      { "name": "Chest Dips", "sets": 3, "reps": 8, "weight": 70 },
+      { "name": "Dumbbell Press", "sets": 3, "reps": 8, "weight": 70 },
+      { "name": "Cable Flys", "sets": 3, "reps": 8, "weight": 50 }
+    ],
+    "likes": 13,
+    "comments": 2
   },
   {
-    "id": "123456789",
-    "image": "https://meepleopolis.com/wp-content/uploads/2023/10/3DBox_CATAN_0.png",
-    "name": "Catan",
-    "theme": "Exploration",
-    "people": "3-4",
-    "time": "60-90",
-    "intensity": "Medium",
-    "description": "Trade and build to dominate an island."
-  },
-  {
-    "id": "1234567890",
-    "image": "https://www.drustveneigre.rs/image/cache/catalog/artikli/azul%20kutija-500x500.jpg",
-    "name": "Azul",
-    "theme": "Art",
-    "people": "2-4",
-    "time": "30-45",
-    "intensity": "Easy",
-    "description": "Draft tiles to create beautiful mosaics."
-  },
-  {
-    "id": "23456789",
-    "image": "https://www.pricerunner.dk/product/640x640/3015776086/Ticket-to-Ride-Europe.jpg?ph=true",
-    "name": "Ticket to Ride",
-    "theme": "Travel",
-    "people": "2-5",
-    "time": "45-60",
-    "intensity": "Easy",
-    "description": "Build train routes across a map."
-  },
-  {
-    "id": "3456789",
-    "image": "https://media.4rgos.it/s/Argos/9513323_R_SET?$Main768$&w=620&h=620",
-    "name": "Pandemic",
-    "theme": "Crisis",
-    "people": "2-4",
-    "time": "45-60",
-    "intensity": "Medium",
-    "description": "Cooperate to stop global disease outbreaks."
-  },
-  {
-    "id": "456789",
-    "image": "https://m.media-amazon.com/images/I/81mj6maLP3L._AC_SL1500_.jpg",
-    "name": "Carcassonne",
-    "theme": "Teritory",
-    "people": "2-5",
-    "time": "30-45",
-    "intensity": "Easy",
-    "description": "Build a medieval landscape with tiles."
-  },
-  {
-    "id": "56789",
-    "image": "https://www.kelz0r.dk/magic/images/terrmars_dk_core.jpg",
-    "name": "Terraforming Mars",
-    "theme": "Sci-Fi",
-    "people": "1-5",
-    "time": "120-150",
-    "intensity": "Hard",
-    "description": "Compete to develop and colonize Mars."
-  },
-  {
-    "id": "6789",
-    "image": "https://www.gamesweb.dk/cdn/shop/products/38364_1400x.png?v=1675071691",
-    "name": "7 Wonders",
-    "theme": "Civilatization",
-    "people": "2-7",
-    "time": "30-45",
-    "intensity": "Medium",
-    "description": "Build a civilization through drafting cards."
+    "profilePicture": "images/pp-jana.png",
+    "name": "User4",
+    "date": "2024-11-01 11:00 AM",
+    "caption": "I will definetly be sore tommorow.",
+    "exercises": [
+      { "name": "Hip Thrusts", "sets": 3, "reps": 6, "weight": 100 },
+      { "name": "RDL's", "sets": 3, "reps": 8, "weight": 36 },
+      { "name": "Blugarian Split Squads", "sets": 3, "reps": 8, "weight": 40 },
+      { "name": "Kickbacks", "sets": 3, "reps": 8, "weight": 27 }
+    ],
+    "likes": 20,
+    "comments": 5
   }
 ]
